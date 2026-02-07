@@ -1,0 +1,14 @@
+# 忽略所有大数据文件
+*.h5ad
+*.csv
+*.loom
+*.h5
+*.rds
+*.RData
+
+# 忽略 Python 缓存和环境
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
