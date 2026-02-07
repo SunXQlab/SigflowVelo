@@ -1,4 +1,4 @@
-# SigflowVelo is benchmarked against other methods using the relapsed B-cell acute lymphoblastic leukemia (B-ALL) dataset GSE153697
+# SigflowVelo is benchmarked against other methods using the  monocyte-macrophage population within Triple-Negative Breast Cancer (TNBC) tumors treated with PD-L1 blockade and paclitaxel
 
 # Introduction
 Here we introduce the detailed process of re-implementation of SigflowVelo against other 
