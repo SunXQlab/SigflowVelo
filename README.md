@@ -9,7 +9,7 @@ SigflowVelo is a physics-informed computational framework designed to reconstruc
 SigflowVelo can be installed directly via `pip`.
 
 ```python
-conda create -n sigflowvelo python=3.9
+conda create -n sigflowvelo python=3.11
 conda activate sigflowvelo
 pip install SigflowVelo==0.1.1
 ```
